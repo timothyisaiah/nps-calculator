@@ -1,7 +1,5 @@
 <template>
-  <q-page class="q-pa-md">
-    <MartingaleCalculator />
-  </q-page>
+  <MartingaleCalculator />
 </template>
 
 <script setup>
