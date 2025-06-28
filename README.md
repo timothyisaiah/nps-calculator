@@ -88,7 +88,7 @@ This project is configured for automatic deployment to GitHub Pages:
 
 1. **Push to main branch**: Any push to `main` or `master` triggers automatic deployment
 2. **GitHub Actions**: The workflow builds and deploys to the `gh-pages` branch
-3. **Live URL**: Available at `https://[username].github.io/martingale-calculator`
+3. **Live URL**: Available at `https://[username].github.io/nps-calculator/`
 
 #### Setup Steps:
 

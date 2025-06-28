@@ -29,4 +29,4 @@ echo "🌐 Deploying to GitHub Pages..."
 npx gh-pages -d dist/spa
 
 echo "✅ Deployment completed successfully!"
-echo "🌍 Your app should be available at: https://[username].github.io/martingale-calculator/" 
+echo "🌍 Your app should be available at: https://[username].github.io/nps-calculator/" 

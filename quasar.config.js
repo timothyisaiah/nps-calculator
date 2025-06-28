@@ -44,7 +44,7 @@ export default defineConfig((/* ctx */) => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      publicPath: '/martingale-calculator/',
+      publicPath: '/nps-calculator/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
